@@ -1,6 +1,6 @@
 {
   "name": "chrome-extension-fetch-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Chrome extension fetch proxy library for handling cross-origin requests through background scripts",
   "main": "dist/chrome-extension-fetch-proxy.js",
   "module": "dist/chrome-extension-fetch-proxy.esm.js",
