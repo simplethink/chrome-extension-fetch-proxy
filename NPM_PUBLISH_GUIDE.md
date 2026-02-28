@@ -69,7 +69,7 @@ npm install chrome-extension-fetch-proxy
 ### 2. Git 推送到远程仓库
 ```bash
 # 添加远程仓库（需要先在 GitHub 创建仓库）
-git remote add origin https://github.com/qihao/chrome-extension-fetch-proxy.git
+git remote add origin https://github.com/simplethink/chrome-extension-fetch-proxy.git
 git push -u origin master --tags
 ```
 

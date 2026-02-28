@@ -106,8 +106,8 @@ npm install chrome-extension-fetch-proxy
 
 ## 支持信息
 
-- **Issues**: https://github.com/qihao/chrome-extension-fetch-proxy/issues
-- **文档**: https://github.com/qihao/chrome-extension-fetch-proxy#readme
+- **Issues**: https://github.com/simplethink/chrome-extension-fetch-proxy/issues
+- **文档**: https://github.com/simplethink/chrome-extension-fetch-proxy#readme
 - **许可证**: MIT
 
 ---

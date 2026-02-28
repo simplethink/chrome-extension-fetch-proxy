@@ -29,12 +29,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qihao/chrome-extension-fetch-proxy.git"
+    "url": "https://github.com/simplethink/chrome-extension-fetch-proxy.git"
   },
   "bugs": {
-    "url": "https://github.com/qihao/chrome-extension-fetch-proxy/issues"
+    "url": "https://github.com/simplethink/chrome-extension-fetch-proxy/issues"
   },
-  "homepage": "https://github.com/qihao/chrome-extension-fetch-proxy#readme",
+  "homepage": "https://github.com/simplethink/chrome-extension-fetch-proxy#readme",
   "devDependencies": {
     "@babel/core": "^7.23.0",
     "@babel/preset-env": "^7.29.0",
